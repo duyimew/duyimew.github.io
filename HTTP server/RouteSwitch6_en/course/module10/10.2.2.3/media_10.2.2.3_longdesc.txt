@@ -1,1 +1,0 @@
-Figure one shows a table with sys log severity names, levels, and descriptions. Figure two shows a table with the sys log message fields and explanations.

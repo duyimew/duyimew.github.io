@@ -1,1 +1,0 @@
-Figures one through three are interactive activities that allow the learner to match a part of a sys log output message with its identifier.
